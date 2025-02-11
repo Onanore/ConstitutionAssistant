@@ -67,10 +67,13 @@ streamlit run app.py
 
 ```
 .
-├── app.py              # Main Streamlit application
-├── database.py         # Document processing and ChromaDB operations
-├── embedding.py        # Embedding model configuration
-├── requirements.txt    # Project dependencies
-├── README.md          # Project documentation
-└── chroma_db/         # Vector database storage (created during runtime)
+streamlit-chat-app/
+├── README.md
+├── requirements.txt
+├── License
+└── src/
+     ├── app.py
+     ├── database.py 
+     ├── embedding.py
+     └── chroma_db/
 ```
