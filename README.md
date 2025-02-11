@@ -17,8 +17,8 @@ A locally-hosted chatbot powered by Ollama that implements Retrieval-Augmented G
 
 2. Clone this repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/Onanore/ConstitutionAssistant
+cd ConstitutionAssistant
 ```
 
 3. Create a virtual environment and activate it:
